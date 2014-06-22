@@ -1,4 +1,4 @@
-JSV-1.0
+JSV
 =======
 
-Clase estandar para validacion de campos
+Clase estandar para validacion de campos util para servicio web
